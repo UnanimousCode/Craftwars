@@ -1,0 +1,10 @@
+local Security = {
+  Blacklist = {
+    
+  };
+  Limits = {
+    ["Blade of Champion's"] = 1000;
+  }
+}
+
+return Security
