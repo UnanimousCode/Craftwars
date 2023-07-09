@@ -1,11 +1,11 @@
 local Security = {
   Blacklist = {
-    
+
   };
   Limits = {
     ["Blade of Champion's"] = 1000;
     ["Greataxe of Chaos"] = 1000;
-    ["Armour of Champion's"]  1000;
+    ["Armour of Champion's"] = 1000;
   }
 }
 
