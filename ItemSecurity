@@ -1,6 +1,6 @@
 local Security = {
   Blacklist = {
-
+    ["Hydra's Staff"] = true;
   };
   Limits = {
     ["Blade of Champion's"] = 1000;
